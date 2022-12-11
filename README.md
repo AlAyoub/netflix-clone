@@ -1,3 +1,11 @@
+Netflix Clone built by Alan Ayoub.
+
+Learn more about Alan Ayoub here:
+www.alanayoub.dev
+
+Here is the URL hosted on firebase:
+https://netflix-clone-d4f00.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
